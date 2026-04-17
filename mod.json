@@ -23,7 +23,7 @@
 	],
 	"dependencies": {
 		"geode.custom-keybinds": {
-			"version": ">=v2.1.0",
+			"version": ">=v1.10.5",
 			"platforms": [
 				"win",
 				"android",
