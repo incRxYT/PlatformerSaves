@@ -1,3 +1,5 @@
+## v1.1.2
+* fixed for 2.2081 support
 ## v1.1.1
 
 * Fixed a bug that caused incorrect song to play when loading a save
